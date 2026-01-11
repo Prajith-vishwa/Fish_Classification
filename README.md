@@ -53,3 +53,5 @@ EfficientNetV2	      ~92.0%	           Good Performance
 ResNet50	            ~90.1%	           Heavy Computation
 VGG16	                ~88.4%	           Slow Inference
 Custom CNN	          ~75.0%	           Baseline Model
+
+
